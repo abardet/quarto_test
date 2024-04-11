@@ -1,4 +1,5 @@
 # Quarto demo
+[![DOI](https://zenodo.org/badge/785148457.svg)](https://zenodo.org/doi/10.5281/zenodo.10960808)
 
 ## Contribution
 
