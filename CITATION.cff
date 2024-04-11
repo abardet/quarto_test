@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bardet"
+  given-names: "Anais"
+  orcid: "https://orcid.org/0000-0003-2306-7809"
+title: "Quarto Demo"
+url: "https://github.com/abardet/quarto_test"
