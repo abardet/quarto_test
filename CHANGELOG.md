@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/abardet/quarto_test/compare/v1.2.0...v1.3.0) (2024-04-11)
+
+
+### Features
+
+* DOI ([27663e7](https://github.com/abardet/quarto_test/commit/27663e77ab590a37d5d75c30738046702ac93dde))
+
 ## [1.2.0](https://github.com/abardet/quarto_test/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
