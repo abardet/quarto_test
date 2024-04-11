@@ -13,3 +13,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 Cite us : https://github.com/abardet/quarto_test
 
 or used [citation file](CITATION.cff).
+
+## Website
+
+https://github.com/abardet/quarto_test/deployments/github-pages
